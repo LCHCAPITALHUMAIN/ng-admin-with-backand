@@ -1,0 +1,32 @@
+{
+  "name": "ng-admin-with-backand",
+  "description": "ng-admin integration with Backand https://www.backand.com using AngularJS, SASS, Gulp, and Browserify",
+  "main": "",
+  "authors": [
+    "Thiago Terleski <thiagoterleski@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "express",
+    "gulp",
+    "browserify",
+    "angular",
+    "sass",
+    "karma",
+    "jasmine",
+    "protractor",
+    "boilerplate"
+  ],
+  "homepage": "https://github.com/thiagoterleski/ng-admin-with-backand",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-material-design": "~0.3.0"
+  }
+}

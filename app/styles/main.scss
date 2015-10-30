@@ -1,0 +1,16 @@
+@import 'vars';
+@import 'typography';
+//@import '//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css';
+@import 'ng-admin.min';
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500);
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+.form-control {
+	border-radius: 0;
+}
+
+.btn-primary {
+	background-color: $md-blue-a400;
+}
